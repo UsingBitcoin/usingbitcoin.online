@@ -4,8 +4,8 @@
 
 Open Source Website - https://usingbitcoin.online
 
-# [View Full License](https://choosealicense.com/licenses/gpl-3.0/)
-This Open Source Website is under GNU General Public License v3.0
+# License
+This Open Source Website is under [GNU General Public License v3.0](https://choosealicense.com/licenses/gpl-3.0/)
 
 ## Permissions of the license.
 
